@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://galera-db-1-na-dev.use1.mplatform.net/agency_geo
+    username: app_agency_geo
+    password: app_agency_geodev
